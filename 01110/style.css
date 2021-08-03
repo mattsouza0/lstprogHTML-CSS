@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding:180px;
+    background-image:url(https://th.bing.com/th/id/R21228762a3d9e9ed62dd633b465a7ee6?rik=Mds6%2b9gvLyTTLA&pid=ImgRaw);
+  }
+  
+  .container{
+    padding: 15px;
+    background-color: none;
+  }
